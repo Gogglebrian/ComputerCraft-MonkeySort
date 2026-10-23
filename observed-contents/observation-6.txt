@@ -1,0 +1,2 @@
+minecraft:purpur_block
+minecraft:end_stone

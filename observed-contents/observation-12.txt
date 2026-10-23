@@ -1,0 +1,7 @@
+minecraft:blue_wool
+minecraft:light_gray_wool
+minecraft:light_blue_wool
+minecraft:gray_wool
+minecraft:brown_wool
+minecraft:black_wool
+minecraft:white_wool

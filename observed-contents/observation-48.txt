@@ -1,0 +1,15 @@
+minecraft:scrape_pottery_sherd
+minecraft:shelter_pottery_sherd
+cobblemon:relic_coin
+minecraft:brick
+minecraft:guster_pottery_sherd
+cobblemon:armor_fossil
+minecraft:sheaf_pottery_sherd
+cobblemon:fossilized_dino
+cobblemon:fossilized_bird
+cobblemon:old_amber_fossil
+cobblemon:fossilized_drake
+minecraft:angler_pottery_sherd
+cobblemon:plume_fossil
+minecraft:snort_pottery_sherd
+cobblemon:skull_fossil

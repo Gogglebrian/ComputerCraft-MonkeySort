@@ -1,0 +1,17 @@
+minecraft:chest_minecart
+minecraft:sticky_piston
+minecraft:activator_rail
+minecraft:powered_rail
+minecraft:lightning_rod
+create:rose_quartz_lamp
+minecraft:sculk_sensor
+minecraft:piston
+regions_unexplored:larch_pressure_plate
+minecraft:tripwire_hook
+minecraft:sculk_catalyst
+minecraft:rail
+create:powered_toggle_latch
+regions_unexplored:larch_button
+minecraft:redstone_torch
+minecraft:minecart
+minecraft:stone_pressure_plate

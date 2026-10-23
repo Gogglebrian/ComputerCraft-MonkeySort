@@ -1,0 +1,2 @@
+minecraft:stone
+minecraft:cobblestone

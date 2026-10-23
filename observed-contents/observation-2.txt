@@ -1,0 +1,15 @@
+minecraft:mossy_cobblestone
+minecraft:diorite
+minecraft:dripstone_block
+minecraft:basalt
+minecraft:granite
+create:scoria
+minecraft:cobblestone
+regions_unexplored:raw_redstone_block
+create:asurine
+create:crimsite
+regions_unexplored:mossy_stone
+minecraft:tuff
+minecraft:deepslate
+create:veridium
+minecraft:cobbled_deepslate

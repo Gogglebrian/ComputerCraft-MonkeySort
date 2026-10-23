@@ -1,0 +1,13 @@
+minecraft:iron_boots
+minecraft:diamond_leggings
+minecraft:diamond_helmet
+minecraft:diamond_boots
+immersive_armors:robe_helmet
+minecraft:elytra
+minecraft:golden_leggings
+minecraft:diamond_chestplate
+immersive_armors:robe_boots
+minecraft:iron_helmet
+immersive_armors:divine_chestplate
+minecraft:iron_leggings
+minecraft:leather_boots

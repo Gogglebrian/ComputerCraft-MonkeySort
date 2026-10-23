@@ -1,0 +1,6 @@
+minecraft:red_sandstone
+minecraft:gravel
+minecraft:sand
+minecraft:smooth_red_sandstone
+minecraft:sandstone
+minecraft:red_sand

@@ -1,0 +1,3 @@
+cobblemon:cheri_berry
+cobblemon:aspear_berry
+cobblemon:oran_berry

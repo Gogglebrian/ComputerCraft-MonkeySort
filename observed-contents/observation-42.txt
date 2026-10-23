@@ -1,0 +1,3 @@
+minecraft:iron_ingot
+minecraft:iron_nugget
+minecraft:iron_ore

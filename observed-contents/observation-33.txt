@@ -1,0 +1,5 @@
+minecraft:porkchop
+minecraft:chicken
+minecraft:rabbit
+minecraft:cod
+minecraft:mutton

@@ -1,0 +1,14 @@
+minecraft:yellow_dye
+minecraft:orange_dye
+minecraft:brown_dye
+minecraft:pink_dye
+minecraft:green_dye
+minecraft:white_dye
+minecraft:lime_dye
+minecraft:ink_sac
+minecraft:red_dye
+minecraft:flower_banner_pattern
+minecraft:purple_dye
+minecraft:blue_dye
+minecraft:light_gray_dye
+minecraft:light_blue_dye

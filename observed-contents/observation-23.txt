@@ -1,0 +1,5 @@
+computercraft:monitor_normal
+cccbridge:scroller_block
+computercraft:monitor_advanced
+cccbridge:redrouter_block
+computercraft:cable

@@ -1,0 +1,16 @@
+minecraft:suspicious_stew
+create:wheat_flour
+minecraft:cooked_porkchop
+minecraft:enchanted_golden_apple
+create:bar_of_chocolate
+minecraft:bread
+minecraft:golden_apple
+create:builders_tea
+create:sweet_roll
+minecraft:pumpkin_pie
+create:chocolate_glazed_berries
+minecraft:cookie
+minecraft:cooked_chicken
+minecraft:cooked_beef
+minecraft:cooked_cod
+minecraft:baked_potato

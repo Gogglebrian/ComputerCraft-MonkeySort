@@ -1,0 +1,5 @@
+minecraft:amethyst_shard
+minecraft:diamond
+minecraft:emerald
+minecraft:echo_shard
+minecraft:amethyst_block

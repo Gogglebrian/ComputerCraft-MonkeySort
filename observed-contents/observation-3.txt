@@ -1,0 +1,16 @@
+minecraft:packed_mud
+regions_unexplored:peat_grass_block
+regions_unexplored:peat_dirt_path
+regions_unexplored:peat_dirt
+regions_unexplored:silt_grass_block
+minecraft:moss_block
+minecraft:mud
+regions_unexplored:peat_podzol
+minecraft:grass_block
+minecraft:rooted_dirt
+regions_unexplored:peat_coarse_dirt
+minecraft:podzol
+minecraft:dirt
+regions_unexplored:silt_dirt
+minecraft:coarse_dirt
+minecraft:muddy_mangrove_roots

@@ -1,0 +1,3 @@
+minecraft:bow
+minecraft:crossbow
+simplyswords:shadowsting

@@ -1,0 +1,14 @@
+regions_unexplored:larch_leaves
+regions_unexplored:silver_birch_leaves
+regions_unexplored:pine_leaves
+regions_unexplored:small_oak_leaves
+cobblemon:apricorn_leaves
+regions_unexplored:blackwood_leaves
+minecraft:oak_leaves
+minecraft:birch_leaves
+minecraft:jungle_leaves
+minecraft:cactus
+minecraft:acacia_leaves
+minecraft:spruce_leaves
+minecraft:dark_oak_leaves
+regions_unexplored:golden_larch_leaves

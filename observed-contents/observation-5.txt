@@ -1,0 +1,9 @@
+minecraft:magma_block
+minecraft:soul_soil
+minecraft:netherrack
+minecraft:soul_sand
+minecraft:blackstone
+minecraft:smooth_basalt
+regions_unexplored:cobalt_nylium
+minecraft:glowstone
+minecraft:gilded_blackstone

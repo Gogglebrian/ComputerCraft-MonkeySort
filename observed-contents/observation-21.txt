@@ -1,0 +1,16 @@
+create:electron_tube
+create:brass_ingot
+create:brass_nugget
+minecraft:dried_kelp
+create:sturdy_sheet
+create:copper_sheet
+minecraft:andesite
+create:brass_sheet
+create:zinc_ingot
+create:andesite_alloy_block
+minecraft:dried_kelp_block
+create:zinc_nugget
+create:golden_sheet
+create:iron_sheet
+create:andesite_alloy
+create:precision_mechanism

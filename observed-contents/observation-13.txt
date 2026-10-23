@@ -1,0 +1,7 @@
+create:birch_window
+minecraft:red_stained_glass
+create:warped_window
+create:dark_oak_window
+minecraft:glass_pane
+minecraft:glass
+create:birch_window_pane
