@@ -1,6 +1,4 @@
-Simple item sorting script for ComputerCraft. 
-
-Sorts items by name, by tag, by matching current contents, or by matching previously observed contents. In short, just put your items where you want them, and the computer will follow suit.
+Simple item sorting script for ComputerCraft. Just put your items where you want them, and the computer will follow suit. (You can also set explicit rules by item or by tag.)
 
 This script is intended to achieve a visually-appealing, spacially-intuitive, and vanilla-feeling storage front-end for a crafting area.
 
